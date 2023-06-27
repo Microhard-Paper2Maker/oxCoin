@@ -36,6 +36,6 @@ composer require offsite/oxcoin:1.0.0
 ### 2. Activate our awesome module!
 
 ```
-bin/oe-console o:m:activate oxacoxCoin
+bin/oe-console o:m:activate oxacoxcoin
 ```
 ### 3. Make awesome business with our awesome module!
