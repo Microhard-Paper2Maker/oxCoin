@@ -30,8 +30,8 @@ The installation is awesomely easy!
 
 ### 1. Require our awesome module!
 ```
-composer config repositories.offsite/oxCoin vcs https://github.com/Microhard-Paper2Maker/oxCoin.git
-composer require offsite/oxCoin:1.0.0
+composer config repositories.offsite/oxcoin vcs https://github.com/Microhard-Paper2Maker/oxCoin.git
+composer require offsite/oxcoin:1.0.0
 ```
 ### 2. Activate our awesome module!
 
